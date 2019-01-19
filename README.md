@@ -1,7 +1,5 @@
 <p align="center"><h1>Pseudo Bot</h1></p>
 
-***
-
 This repository contains the code used in the [**Halite III**](https://halite.io/) competition using Python.
 
 Halite III is a resource management game in which players build and command ships that explore the ocean and collect halite. Ships use halite as an energy source, and the player with the most stored halite at the end of the game is the winner.
