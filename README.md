@@ -55,8 +55,8 @@ Players begin play with a shipyard, and can use collected halite to build new sh
 
 <h2>Things that didn't work</h2>
 
-- [x] ~~Scan the whole map once per turn and give ships a maximum resource co-ordinates while iterating over ships that would increase over score~~
-- [x] ~~Randomly assign scanning area(size) w.r.t. the ship~~
+- [x] ~~Scan the whole map once per turn and give ships a maximum resource co-ordinates while iterating over ships that would increase over score.~~
+- [x] ~~Randomly assign scanning area(size) w.r.t. the ship.~~
 
 
 ***
