@@ -26,7 +26,7 @@ Players begin play with a shipyard, and can use collected halite to build new sh
 
   #TODO
 
-* <h1>Playing the game visually.</h1>
+* <h1>Viewing the game visually.</h1>
 
   drag and drop the `.hlt` file under `replays` folder in [here.](https://halite.io/watch-games)
 
