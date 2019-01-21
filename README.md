@@ -49,7 +49,7 @@ Players begin play with a shipyard, and can use collected halite to build new sh
 
 - [ ] Implement a drop-off location strategy by scanning 4x4 grid of the whole map with a stride of one. Select random points of top 3 mean scores from those grids.
 
-- [ ] Implement a strtegy such that ships will go back to the position as they change state from "Exploring" to "Returning".
+- [ ] Implement a strtegy such that ships will go back to the position as they change state from "Returning" to "Exploring".
 
 ***
 
