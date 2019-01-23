@@ -75,4 +75,4 @@ Players begin play with a shipyard, and can use collected halite to build new sh
 * [Halite Forums](https://forums.halite.io/)
 
 
-Thanks to Two Sigma for hosting the competition.
+Thanks to Two Sigma for hosting this wonderful competition.
