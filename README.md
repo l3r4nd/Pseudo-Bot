@@ -34,11 +34,11 @@ Players begin play with a shipyard, and can use collected halite to build new sh
 
 <h1>Explaination of how the Pseudo Bot was designed:</h1>
 
-* Short version:
+* <b>Short version:</b>
 
   As ships are generated from the Shipyard. Each ship scans an area of 8x8 grid from its current position (i.e. from -4 to +4 in both x and y keeping ship's position on the game map as origin) get the maximum resource co-ordinate from that grid and make the ship move towards that target.
 
-* Long version:
+* <b>Long version:</b>
 
   #TODO
 
@@ -57,7 +57,6 @@ Players begin play with a shipyard, and can use collected halite to build new sh
 
 - [x] ~~Scan the whole map once per turn and give ships a maximum resource co-ordinates while iterating over ships that would increase over score.~~
 - [x] ~~Randomly assign the size of ship's scanning area.~~
-
 
 ***
 
