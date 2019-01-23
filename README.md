@@ -21,10 +21,16 @@ Players begin play with a shipyard, and can use collected halite to build new sh
 * * <h2>On Windows</h2>
 
   `halite.exe --replay-directory replays/ -vvv --width 64 --height 64 "python PseudoBot.py" "python PseudoBot.py"`
+  
+  or simply run the run_game.bat
 
 * * <h2>On Linux</h2>
 
-  #TODO
+  `#!/bin/sh
+  
+  ./halite --replay-directory replays/ -vvv --width 32 --height 32 "python3 MyBot.py" "python3 MyBot.py"`
+  
+  or simply run the run_game.sh
 
 * <h1>Viewing the game visually.</h1>
 
