@@ -29,7 +29,7 @@ Players begin play with a shipyard, and can use collected halite to build new sh
 * * <h2>On Linux</h2>
 
   ```
-  #!/bin/sh`
+  #!/bin/sh
 
   ./halite --replay-directory replays/ -vvv --width 32 --height 32 "python3 MyBot.py" "python3 MyBot.py"
   ```
