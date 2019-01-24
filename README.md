@@ -14,7 +14,7 @@ Players begin play with a shipyard, and can use collected halite to build new sh
 
 - [x] Each ship can only take one decision per turn. (otherwise the game would throw an error and lose the game)
 
-- [x] 
+- [x] Making sure no ships are given a move if they contain less resources than 10% of resource at that point. (otherwise the game considers it as crash along with which the ship it is swapping positions with.)
 
 ***
 
